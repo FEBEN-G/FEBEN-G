@@ -30,7 +30,7 @@ I'm a passionate **Software Engineering student at Addis Ababa University** and 
 ---
 
 ### 📫 How to Reach Me
-- Email: feben.girma.dev@gmail.com  
+- Email: febengetachew580@gmail.com 
 - LinkedIn: [linkedin.com/in/feben-getachew-03012228b](https://www.linkedin.com/in/feben-getachew-03012228b)  
 - Telegram: [@God_of_Abrham](https://t.me/God_of_Abrham)
 
