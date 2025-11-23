@@ -5,11 +5,10 @@ I'm a passionate **Software Engineering student at Addis Ababa University** and 
 ---
 
 ### 👀 Interests
-- Front-End Development (React, TypeScript, Bootstrap)
+- Full-stack Development 
 - Mobile App Development (Flutter, Jetpack Compose)
-- UX/UI Design and Prototyping
-- AI & Machine Learning (beginner level)
-- Christian digital content creation and outreach tools
+- AI & Machine Learning 
+
 
 ---
 
@@ -25,7 +24,6 @@ I'm a passionate **Software Engineering student at Addis Ababa University** and 
 ### 🤝 Open to Collaborate On
 - Web and mobile app projects
 - Open-source contributions
-- Christian tech platforms or digital tools for community outreach
 
 ---
 
