@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Feben Getachew!
 
-I'm a passionate **Software Engineering student at Addis Ababa University** and a dedicated **Front-End Developer** with a strong interest in building clean, responsive, and user-friendly web and mobile applications.
+I'm a passionate **Software Engineering student at Addis Ababa University** and a dedicated **Full-Stack** with a strong interest in building clean, responsive, and user-friendly web and mobile applications.
 
 ---
 
